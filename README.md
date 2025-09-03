@@ -1,3 +1,4 @@
+# Experiment 1
 1. ALPHABET SOUP
 
 The initial procedure was to create a code that allows the user to input a word that would be ordered alphabetically.
